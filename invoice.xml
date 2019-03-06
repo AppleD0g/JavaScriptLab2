@@ -1,0 +1,33 @@
+<?xml version= "1.0"?>
+<root>
+
+<invoice>INVOICE</invoice>
+<date>01 January 2013</date>
+    <no>Invoice No. 20120101-1</no>
+    
+    
+<Name>Full Name</Name>
+    <Address>Address Line 1</Address>
+    <Address>Address Line 1</Address>
+    <City>City</City>
+    
+
+    
+<product category ="cat1">
+    <title>Web design and development</title>
+    <rate>$50.00</rate>
+    <units>10</units>
+    </product>    
+
+    
+<product category ="cat2">
+    <title>Annual web hosting</title>
+    <rate>$100.00</rate>
+    <units>1</units>
+    </product>    
+        
+<total>$600.00</total>    
+<gst>$90.00</gst>
+<amount-paid>$200.00</amount-paid>    
+<amount-due>$490.00</amount-due>    
+</root>

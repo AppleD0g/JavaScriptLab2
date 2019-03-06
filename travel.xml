@@ -1,0 +1,28 @@
+<?xml version= "1.0"?>
+<root>
+
+<information>Flight Detail</information>
+    <departure>Departure</departure>
+    <time>12.15pm</time>
+    <date>4th March</date>
+    <from>Dublin</from>
+    <arrival>Arrival</arrival>
+    <to>Rome</to>
+    <time>15.25pm</time>
+    
+    
+    <return>Return</return>
+    <departure>Departure</departure>
+    <time>16.05pm</time>
+    <date>11th March</date>
+    <from>Rome</from>
+    <arrival>Arrival</arrival>
+    <to>Dublin</to>
+    <time>17.20pm</time>
+    
+    
+    <Accomadation>Accomadation</Accomadation>
+    <Name>Radisson Hotel</Name>
+    <from>4th March</from>
+    <to>11th March</to>
+</root>
